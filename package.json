@@ -1,0 +1,25 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "配置 typescript 的开发环境的项目",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megnate/ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Megnate/ts/issues"
+  },
+  "homepage": "https://github.com/Megnate/ts#readme",
+  "bin": {
+    "run": "bin/bin.js"
+  }
+}
